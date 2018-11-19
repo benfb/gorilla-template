@@ -1,4 +1,4 @@
-(defproject gorilla-app/lein-template "0.5.2"
+(defproject gorilla-app/lein-template "0.6.0"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
